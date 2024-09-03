@@ -1,5 +1,18 @@
 ﻿# Student_details_form
-code for to access the google sheets simple copy and paste the js code in google sheets exensions
+#code for to access the google sheets simple copy and paste the js code in google sheets exensions
+
+
+
+
+
+
+
+
+
+
+
+
+
 var sheetName = 'Sheet1'
 var scriptProp = PropertiesService.getScriptProperties()
 
